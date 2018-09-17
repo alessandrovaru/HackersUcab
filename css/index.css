@@ -57,14 +57,16 @@
   text-align: center;
 }
 
-.centrado h1{
-  font-size: 60px;
+h1{
+  font-size: 37px;
 }
 
-.centrado h2{
+h2{
   font-size: 30px;
   margin-bottom: -12px;
 }
+
+
 
 .about-us{
   height: 100vh;
