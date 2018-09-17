@@ -25,7 +25,7 @@
 }
 
 .inscribete{
-  background-color: #ffd200;
+  background-color: #1e1e1e;
   display: flex;
   -ms-align-items: center;
   align-items: center;
@@ -57,16 +57,14 @@
   text-align: center;
 }
 
-h1{
-  font-size: 37px;
+.centrado h1{
+  font-size: 60px;
 }
 
-h2{
+.centrado h2{
   font-size: 30px;
   margin-bottom: -12px;
 }
-
-
 
 .about-us{
   height: 100vh;
