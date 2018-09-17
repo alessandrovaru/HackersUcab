@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:700|Montserrat:500|Source+Code+Pro');
+
+
+*{
+  font-family:'Montserrat';
+}
+
+.nav{
+  background-color: #ffd200;
+}
+
+.portada{
+  height: 100vh;
+  background-color: #ffd200;
+  display: flex;
+  -ms-align-items: center;
+  align-items: center;
+}
+.hackers{
+  background-color: #1e1e1e;
+  display: flex;
+  -ms-align-items: center;
+  align-items: center;
+  height: 400px
+}
+
+.inscribete{
+  background-color: #ffd200;
+  display: flex;
+  -ms-align-items: center;
+  align-items: center;
+  height: 400px
+}
+
+.hackers p{
+  color: white;
+  font-family: 'Source Code Pro'
+}
+
+.hackers h2{
+  color: white;
+  margin-bottom: 30px;
+}
+
+.encabezado{
+  text-align: center;
+
+}
+
+.alignLeft{
+  margin: auto;
+  text-align: left;
+}
+
+.centrado{
+  margin: auto;
+  text-align: center;
+}
+
+.centrado h1{
+  font-size: 60px;
+}
+
+.centrado h2{
+  font-size: 30px;
+  margin-bottom: -12px;
+}
+
+.about-us{
+  height: 100vh;
+}
+
+.string{
+  color: #a4ff6b;
+  font-family: 'Source Code Pro'
+}
+
+.funciones{
+  color: #c25dff;
+  font-family: 'Source Code Pro'
+}
+
+.call{
+  color: #2da5f2;
+  font-family: 'Source Code Pro'
+}
